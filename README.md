@@ -18,19 +18,19 @@ _These screenshots display the functionalities of the software:_
 
 * Register a new user on database
 
-![Screenshot](DOCUMENTATION/img/Create user.png)
+![Alt text](DOCUMENTATION/img/Create%20user.png)
 
 * See all users registered on database
 
-![Screenshot](DOCUMENTATION/img/Read user.png)
+![Alt text](DOCUMENTATION/img/Read%20user.png)
 
 * Update information about an user
 
-![Screenshot](DOCUMENTATION/img/Update user.png)
+![Alt text](DOCUMENTATION/img/Update%20user.png)
 
 * Delete a user from database
 
-![Screenshot](DOCUMENTATION/img/Delete user.png)
+![Alt text](DOCUMENTATION/img/Delete%20user.png)
 
 
 
